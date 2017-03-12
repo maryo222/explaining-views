@@ -7,5 +7,6 @@
 </head>
 <body>
 <?php
+// Pull in navigation
 require 'partials/navigation.php';
 ?>
